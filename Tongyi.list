@@ -1,2 +1,12 @@
-Tongyi AI Shadowrocket Rules
-DOMAIN-SUFFIX,tongyi.com DOMAIN-SUFFIX,tongyi.aliyun.com DOMAIN-SUFFIX,qianwen.com DOMAIN-SUFFIX,qwen.ai DOMAIN-SUFFIX,bailian.aliyun.com DOMAIN-SUFFIX,modelstudio.alibabacloud.com DOMAIN-SUFFIX,ai.aliyun.com DOMAIN-SUFFIX,lingma.aliyun.com DOMAIN-SUFFIX,tingwu.aliyun.com DOMAIN-SUFFIX,wan.video
+# Tongyi AI / Qwen
+
+DOMAIN-SUFFIX,tongyi.com
+DOMAIN-SUFFIX,tongyi.aliyun.com
+DOMAIN-SUFFIX,qianwen.com
+DOMAIN-SUFFIX,qwen.ai
+DOMAIN-SUFFIX,bailian.aliyun.com
+DOMAIN-SUFFIX,modelstudio.alibabacloud.com
+DOMAIN-SUFFIX,ai.aliyun.com
+DOMAIN-SUFFIX,lingma.aliyun.com
+DOMAIN-SUFFIX,tingwu.aliyun.com
+DOMAIN-SUFFIX,wan.video
