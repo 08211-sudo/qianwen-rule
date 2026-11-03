@@ -132,3 +132,41 @@ DOMAIN-SUFFIX,dianmiao.cn
 DOMAIN-SUFFIX,diyiyt.com
 DOMAIN-SUFFIX,doutianshequ.com
 DOMAIN-SUFFIX,btzgamepkg.com
+# ========== 海康威视 ==========
+DOMAIN-SUFFIX,hikvision.com
+DOMAIN-SUFFIX,hikmall.com
+DOMAIN-SUFFIX,hik-connect.com
+DOMAIN-SUFFIX,hikvisionmall.com
+DOMAIN-SUFFIX,hicloudcam.com
+DOMAIN-SUFFIX,hik-connection.com
+DOMAIN-SUFFIX,hilookviewer.com
+DOMAIN-SUFFIX,hik-connectru.com
+DOMAIN-SUFFIX,hilookviewru.com
+
+# ========== 萤石 EZVIZ ==========
+DOMAIN-SUFFIX,ezviz.com
+DOMAIN-SUFFIX,ezvizlife.com
+DOMAIN-SUFFIX,ezviz7.com
+
+# ========== 海康机器人 HIKROBOT ==========
+DOMAIN-SUFFIX,hikrobotics.com
+DOMAIN-SUFFIX,v-club.com
+
+# ========== 海康微影 HIKMICRO ==========
+DOMAIN-SUFFIX,hikmicrotech.com
+
+# ========== 海康汽车 HIKAUTO ==========
+DOMAIN-SUFFIX,hikauto.com
+
+# ========== 海康存储 HIKSEMI ==========
+DOMAIN-SUFFIX,hiksemitech.com
+DOMAIN-SUFFIX,hikstorage.com
+
+# ========== 海康慧影 HIKIMAGING ==========
+DOMAIN-SUFFIX,hikimaging.com
+
+# ========== 海康消防 ==========
+# 暂无已核实的独立域名
+
+# ========== 海康睿影 ==========
+# 暂无已核实的独立域名
