@@ -1,20 +1,20 @@
 # ========== Zalo 核心通信 ==========
-DOMAIN-SUFFIX,zaloapp.com # Zalo客户端、API、登录、消息及群组服务
-DOMAIN-SUFFIX,zalo.me # Zalo官方主站、聊天、好友及群组服务
-DOMAIN-SUFFIX,zadn.vn # Zalo静态资源及CDN分发
-DOMAIN-SUFFIX,zalo.video # Zalo视频相关服务
-DOMAIN-SUFFIX,zapps.me # Zalo关联应用及登录服务
+DOMAIN-SUFFIX,zaloapp.com
+DOMAIN-SUFFIX,zalo.me
+DOMAIN-SUFFIX,zadn.vn
+DOMAIN-SUFFIX,zalo.video
+DOMAIN-SUFFIX,zapps.me
 
-# ========== Zalo 辅助资源 ==========
-DOMAIN-SUFFIX,zdn.vn # Zalo网页资源及静态内容分发
-DOMAIN-SUFFIX,zapps.vn # Zalo账号登录及关联服务
+# ========== Zalo
+DOMAIN-SUFFIX,zdn.vn
+DOMAIN-SUFFIX,zapps.vn
 
 # ========== Zalo 生态服务 ==========
-DOMAIN-SUFFIX,zalo.cloud # Zalo云及AI相关服务
-DOMAIN-SUFFIX,zalo.solutions # Zalo关联扩展服务
-DOMAIN-SUFFIX,nhatkyzalo.vn # Zalo日记相关服务
-DOMAIN-SUFFIX,vng.com.vn # Zalo母公司VNG官方网站
+DOMAIN-SUFFIX,zalo.cloud
+DOMAIN-SUFFIX,zalo.solutions
+DOMAIN-SUFFIX,nhatkyzalo.vn
+DOMAIN-SUFFIX,vng.com.vn
 
 # ========== Zalo 广告服务 ==========
-DOMAIN-SUFFIX,adtima.vn # Adtima广告平台
-DOMAIN-SUFFIX,adtimaserver.vn # Adtima广告接口及日志服务
+DOMAIN-SUFFIX,adtima.vn
+DOMAIN-SUFFIX,adtimaserver.vn
