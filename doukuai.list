@@ -1,152 +1,25 @@
-# ========== 字节跳动 ==========
-DOMAIN-SUFFIX,bytedance.com
-DOMAIN-SUFFIX,bytedance.net
-DOMAIN-SUFFIX,byted-static.com
-DOMAIN-SUFFIX,bytedns.net
-DOMAIN-SUFFIX,bytednsdoc.com
-DOMAIN-SUFFIX,bytegoofy.com
-DOMAIN-SUFFIX,byteimg.com
-DOMAIN-SUFFIX,bytescm.com
-DOMAIN-SUFFIX,bytetos.com
-DOMAIN-SUFFIX,bytexservice.com
-DOMAIN-SUFFIX,ibytedapm.com
-DOMAIN-SUFFIX,pstatp.com
-DOMAIN-SUFFIX,snssdk.com
-DOMAIN-SUFFIX,zijieapi.com
-DOMAIN-SUFFIX,zijieimg.com
-DOMAIN-SUFFIX,zjbyte.com
-DOMAIN-SUFFIX,zjcdn.com
+# 小火箭 Shadowrocket：大陆影视 / 视频 / 音乐 / 直播 / 视听设备域名规则
+# 统一格式：DOMAIN-SUFFIX,domain
+# 不含策略字段（DIRECT/PROXY/REJECT）；不含 IP-CIDR、进程规则或 USER-AGENT。
+# 按此前范围排除：阿里系、字节跳动系、快手系；AcFun因快手关联一并排除。
+# 注意：公开规则库交叉核对不等于逐域名注册主体证明或实时DNS可达性测试。
+# 部分平台使用共享CDN/云服务；相关条目已单独标注，可能覆盖该公司的其他业务。
 
-# ========== 抖音 ==========
-DOMAIN-SUFFIX,amemv.com
-DOMAIN-SUFFIX,douyin.com
-DOMAIN-SUFFIX,douyincdn.com
-DOMAIN-SUFFIX,douyinpic.com
-DOMAIN-SUFFIX,douyinstatic.com
-DOMAIN-SUFFIX,douyinvod.com
-DOMAIN-SUFFIX,iesdouyin.com
-
-# ========== 西瓜视频 ==========
-DOMAIN-SUFFIX,bdxiguaimg.com
-DOMAIN-SUFFIX,bdxiguastatic.com
-DOMAIN-SUFFIX,ixigua.com
-
-# ========== 今日头条 ==========
-DOMAIN-SUFFIX,toutiao.com
-DOMAIN-SUFFIX,toutiao13.com
-DOMAIN-SUFFIX,toutiaoapi.com
-DOMAIN-SUFFIX,toutiaocdn.com
-DOMAIN-SUFFIX,toutiaocdn.net
-DOMAIN-SUFFIX,toutiaocloud.com
-DOMAIN-SUFFIX,toutiaohao.com
-DOMAIN-SUFFIX,toutiaohao.net
-DOMAIN-SUFFIX,toutiaoimg.com
-DOMAIN-SUFFIX,toutiaopage.com
-
-# ========== 火山 ==========
-DOMAIN-SUFFIX,huoshan.com
-DOMAIN-SUFFIX,huoshanzhibo.com
-
-# ========== 飞聊 ==========
-DOMAIN-SUFFIX,feiliao.com
-
-# ========== 悟空问答 ==========
-DOMAIN-SUFFIX,wukong.com
-
-# ========== 快手相关旧规则收录项 ==========
-DOMAIN-SUFFIX,gifshow.com
-DOMAIN-SUFFIX,kspkg.com
-
-# ========== 字节生态其他业务 ==========
-DOMAIN-SUFFIX,feelgood.cn
-  # ========== 快手基础服务 ==========
-DOMAIN-SUFFIX,kuaishou.com
-DOMAIN-SUFFIX,kuaishou.cn
-DOMAIN-SUFFIX,gifshow.com
-DOMAIN-SUFFIX,ksapisrv.com
-DOMAIN-SUFFIX,kspkg.com
-DOMAIN-SUFFIX,kwimgs.com
-DOMAIN-SUFFIX,yximgs.com
-DOMAIN-SUFFIX,kwaicdn.com
-DOMAIN-SUFFIX,kwaicdnx.com
-
-# ========== 快手客户端及账号 ==========
-DOMAIN-SUFFIX,kuaishouapp.cn
-DOMAIN-SUFFIX,kuaishouapp.com
-DOMAIN-SUFFIX,kuaishouapp.net
-DOMAIN-SUFFIX,kuaishouapps.com
-DOMAIN-SUFFIX,kuaishougroup.com
-DOMAIN-SUFFIX,inkuai.com
-DOMAIN-SUFFIX,inkwai.com
-
-# ========== 快手支付及电商 ==========
-DOMAIN-SUFFIX,kuaishoupay.com
-DOMAIN-SUFFIX,kuaishouzt.cn
-DOMAIN-SUFFIX,kuaishouzt.com
-DOMAIN-SUFFIX,kwaizt.cn
-DOMAIN-SUFFIX,kwaizt.com
-DOMAIN-SUFFIX,kwaibusiness.cn
-DOMAIN-SUFFIX,kwaibusiness.com
-
-# ========== 快手广告及商业服务 ==========
-DOMAIN-SUFFIX,kuaiads.cn
-DOMAIN-SUFFIX,kuaiads.com
-DOMAIN-SUFFIX,adkwai.com
-DOMAIN-SUFFIX,adukwai.com
-DOMAIN-SUFFIX,kwaiad.cn
-DOMAIN-SUFFIX,kwaiadapp.cn
-DOMAIN-SUFFIX,kwaiadapp.com
-DOMAIN-SUFFIX,kwaiads.cn
-DOMAIN-SUFFIX,kwaiads.com
-
-# ========== 快影 ==========
-DOMAIN-SUFFIX,kuai-ying.cn
-DOMAIN-SUFFIX,kuai-ying.com
-DOMAIN-SUFFIX,ikuaiying.cn
-DOMAIN-SUFFIX,kwaiying.cn
-DOMAIN-SUFFIX,kwaiying.com
-
-# ========== 快手直播 ==========
-DOMAIN-SUFFIX,kwaitalk.cn
-DOMAIN-SUFFIX,kwaitalk.com
-DOMAIN-SUFFIX,kwaitv.cn
-DOMAIN-SUFFIX,kwaitv.com
-DOMAIN-SUFFIX,live-voip.com
-
-# ========== AcFun ==========
-DOMAIN-SUFFIX,acfun.cn
-DOMAIN-SUFFIX,acfun.com
-DOMAIN-SUFFIX,acfun.tv
-DOMAIN-SUFFIX,acfunchina.cn
-DOMAIN-SUFFIX,acfunchina.com
-DOMAIN-SUFFIX,acfunchina.net
-DOMAIN-SUFFIX,aixifan.com
-
-# ========== 快手其他业务 ==========
-DOMAIN-SUFFIX,etoote.cn
-DOMAIN-SUFFIX,etoote.com
-DOMAIN-SUFFIX,etoote.com.cn
-DOMAIN-SUFFIX,etoote.net
-DOMAIN-SUFFIX,52yitian.com
-DOMAIN-SUFFIX,dianmiao.cn
-DOMAIN-SUFFIX,diyiyt.com
-DOMAIN-SUFFIX,doutianshequ.com
-DOMAIN-SUFFIX,btzgamepkg.com
 # ========== 海康威视 ==========
-DOMAIN-SUFFIX,hikvision.com
-DOMAIN-SUFFIX,hikmall.com
-DOMAIN-SUFFIX,hik-connect.com
-DOMAIN-SUFFIX,hikvisionmall.com
 DOMAIN-SUFFIX,hicloudcam.com
+DOMAIN-SUFFIX,hik-connect.com
 DOMAIN-SUFFIX,hik-connection.com
-DOMAIN-SUFFIX,hilookviewer.com
 DOMAIN-SUFFIX,hik-connectru.com
+DOMAIN-SUFFIX,hikmall.com
+DOMAIN-SUFFIX,hikvision.com
+DOMAIN-SUFFIX,hikvisionmall.com
+DOMAIN-SUFFIX,hilookviewer.com
 DOMAIN-SUFFIX,hilookviewru.com
 
 # ========== 萤石 EZVIZ ==========
 DOMAIN-SUFFIX,ezviz.com
-DOMAIN-SUFFIX,ezvizlife.com
 DOMAIN-SUFFIX,ezviz7.com
+DOMAIN-SUFFIX,ezvizlife.com
 
 # ========== 海康机器人 HIKROBOT ==========
 DOMAIN-SUFFIX,hikrobotics.com
@@ -165,287 +38,265 @@ DOMAIN-SUFFIX,hikstorage.com
 # ========== 海康慧影 HIKIMAGING ==========
 DOMAIN-SUFFIX,hikimaging.com
 
-# ========== 海康消防 ==========
-# 暂无已核实的独立域名
+# ========== 爱奇艺 ==========
+DOMAIN-SUFFIX,71.am
+DOMAIN-SUFFIX,71edge.com
+DOMAIN-SUFFIX,71edge.net
+DOMAIN-SUFFIX,aianno.cn
+DOMAIN-SUFFIX,aianno.com
+DOMAIN-SUFFIX,aiqiyicloud-mgmt.com
+DOMAIN-SUFFIX,aiqiyicloud.com
+DOMAIN-SUFFIX,aiqiyicloud.net
+DOMAIN-SUFFIX,baiying.com
+DOMAIN-SUFFIX,gitv.cn
+DOMAIN-SUFFIX,gitv.tv
+DOMAIN-SUFFIX,ibkstore.com
+DOMAIN-SUFFIX,iq.com
+DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,iqiyiedge.com
+DOMAIN-SUFFIX,iqiyiedge.net
+DOMAIN-SUFFIX,iqiyipic.com
+DOMAIN-SUFFIX,jiangbing.cn
+DOMAIN-SUFFIX,pps.tv
+DOMAIN-SUFFIX,ppsimg.com
+DOMAIN-SUFFIX,ppstream.cn
+DOMAIN-SUFFIX,ppstream.com
+DOMAIN-SUFFIX,ppstream.com.cn
+DOMAIN-SUFFIX,ppstream.net
+DOMAIN-SUFFIX,ppstream.net.cn
+DOMAIN-SUFFIX,ppsurl.com
+DOMAIN-SUFFIX,qiyi.cn
+DOMAIN-SUFFIX,qiyi.com
+DOMAIN-SUFFIX,qiyipic.com
+DOMAIN-SUFFIX,qy.com
+DOMAIN-SUFFIX,qy.net
+DOMAIN-SUFFIX,suike.cn
 
-# ========== 海康睿影 ==========
-# 暂无已核实的独立域名
-# ==================================================
-# 爱奇艺
-# 公司：爱奇艺
-# ==================================================
-DOMAIN-SUFFIX,iqiyi.com,DIRECT
-DOMAIN-SUFFIX,iq.com,DIRECT
-DOMAIN-SUFFIX,qiyi.com,DIRECT
-DOMAIN-SUFFIX,qiyi.cn,DIRECT
-DOMAIN-SUFFIX,qiyipic.com,DIRECT
-DOMAIN-SUFFIX,iqiyipic.com,DIRECT
-DOMAIN-SUFFIX,iqiyiedge.com,DIRECT
-DOMAIN-SUFFIX,iqiyiedge.net,DIRECT
-DOMAIN-SUFFIX,pps.tv,DIRECT
-DOMAIN-SUFFIX,ppsimg.com,DIRECT
-DOMAIN-SUFFIX,ppstream.com,DIRECT
-DOMAIN-SUFFIX,ppstream.cn,DIRECT
-DOMAIN-SUFFIX,ppstream.net,DIRECT
-DOMAIN-SUFFIX,ppsurl.com,DIRECT
-DOMAIN-SUFFIX,71.am,DIRECT
-DOMAIN-SUFFIX,71edge.com,DIRECT
-DOMAIN-SUFFIX,71edge.net,DIRECT
-DOMAIN-SUFFIX,aiqiyicloud.com,DIRECT
-DOMAIN-SUFFIX,aiqiyicloud.net,DIRECT
+# ========== 腾讯视频 ==========
+DOMAIN-SUFFIX,acc.login.qq.com
+DOMAIN-SUFFIX,ad.reward.qq.com
+DOMAIN-SUFFIX,film.qq.com
+DOMAIN-SUFFIX,iwan.qq.com
+DOMAIN-SUFFIX,tv.qq.com
+DOMAIN-SUFFIX,v.qq.com
+DOMAIN-SUFFIX,video.qq.com
+DOMAIN-SUFFIX,wetv.vip
+DOMAIN-SUFFIX,wetvinfo.com
 
-# ==================================================
-# 腾讯视频
-# 公司：腾讯
-# ==================================================
-DOMAIN-SUFFIX,v.qq.com,DIRECT
-DOMAIN-SUFFIX,video.qq.com,DIRECT
-DOMAIN-SUFFIX,film.qq.com,DIRECT
-DOMAIN-SUFFIX,iwan.qq.com,DIRECT
-DOMAIN-SUFFIX,tv.qq.com,DIRECT
-DOMAIN-SUFFIX,wetv.vip,DIRECT
-DOMAIN-SUFFIX,wetvinfo.com,DIRECT
-DOMAIN-SUFFIX,gtimg.com,DIRECT
-DOMAIN-SUFFIX,smtcdns.com,DIRECT
-DOMAIN-SUFFIX,smtcdns.net,DIRECT
+# ========== 哔哩哔哩 ==========
+DOMAIN-SUFFIX,acg.tv
+DOMAIN-SUFFIX,acgvideo.com
+DOMAIN-SUFFIX,b23.tv
+DOMAIN-SUFFIX,bigfun.cn
+DOMAIN-SUFFIX,bigfunapp.cn
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,bilibili.cc
+DOMAIN-SUFFIX,bilibili.cn
+DOMAIN-SUFFIX,bilibili.co
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilibili.net
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,bilibiligame.cn
+DOMAIN-SUFFIX,bilibiligame.co
+DOMAIN-SUFFIX,bilibiligame.net
+DOMAIN-SUFFIX,bilibilipay.cn
+DOMAIN-SUFFIX,bilibilipay.com
+DOMAIN-SUFFIX,bilicdn1.com
+DOMAIN-SUFFIX,bilicdn2.com
+DOMAIN-SUFFIX,bilicdn3.com
+DOMAIN-SUFFIX,bilicdn4.com
+DOMAIN-SUFFIX,bilicdn5.com
+DOMAIN-SUFFIX,biligo.com
+DOMAIN-SUFFIX,biliimg.com
+DOMAIN-SUFFIX,bilivideo.cn
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,bilivideo.net
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,hdslb.net
+DOMAIN-SUFFIX,hdslb.org
 
-# 腾讯视频官方公开业务范围中的其他入口
-DOMAIN,film.video.qq.com,DIRECT
-DOMAIN,vip.video.qq.com,DIRECT
-DOMAIN,vip6.video.qq.com,DIRECT
-DOMAIN,mp.v.qq.com,DIRECT
-DOMAIN,acc.login.qq.com,DIRECT
-DOMAIN,ad.reward.qq.com,DIRECT
+# ========== 网易云音乐 ==========
+DOMAIN-SUFFIX,163yun.com
+DOMAIN-SUFFIX,api.iplay.163.com
+DOMAIN-SUFFIX,music.126.com
+DOMAIN-SUFFIX,music.126.net
+DOMAIN-SUFFIX,music.163.com
 
-# ==================================================
-# 哔哩哔哩
-# 公司：上海宽娱数码科技有限公司
-# ==================================================
-DOMAIN-SUFFIX,bilibili.com,DIRECT
-DOMAIN-SUFFIX,bilibili.cn,DIRECT
-DOMAIN-SUFFIX,bilibili.net,DIRECT
-DOMAIN-SUFFIX,bilibili.tv,DIRECT
-DOMAIN-SUFFIX,b23.tv,DIRECT
-DOMAIN-SUFFIX,acg.tv,DIRECT
-DOMAIN-SUFFIX,acgvideo.com,DIRECT
-DOMAIN-SUFFIX,biliapi.com,DIRECT
-DOMAIN-SUFFIX,biliapi.net,DIRECT
-DOMAIN-SUFFIX,bilivideo.com,DIRECT
-DOMAIN-SUFFIX,bilivideo.cn,DIRECT
-DOMAIN-SUFFIX,bilivideo.net,DIRECT
-DOMAIN-SUFFIX,biliimg.com,DIRECT
-DOMAIN-SUFFIX,bilicdn1.com,DIRECT
-DOMAIN-SUFFIX,bilicdn2.com,DIRECT
-DOMAIN-SUFFIX,bilicdn3.com,DIRECT
-DOMAIN-SUFFIX,bilicdn4.com,DIRECT
-DOMAIN-SUFFIX,bilicdn5.com,DIRECT
-DOMAIN-SUFFIX,hdslb.com,DIRECT
-DOMAIN-SUFFIX,hdslb.net,DIRECT
-DOMAIN-SUFFIX,hdslb.org,DIRECT
-DOMAIN-SUFFIX,bigfun.cn,DIRECT
-DOMAIN-SUFFIX,bigfunapp.cn,DIRECT
+# ========== 腾讯音乐 - QQ音乐 ==========
+DOMAIN-SUFFIX,music.qq.com
+DOMAIN-SUFFIX,qqmusic.qq.com
+DOMAIN-SUFFIX,tencentmusic.com
+DOMAIN-SUFFIX,y.qq.com
 
-# ==================================================
-# 网易云音乐
-# 公司：网易
-# ==================================================
-DOMAIN,music.163.com,DIRECT
-DOMAIN,music.126.com,DIRECT
-DOMAIN,music.126.net,DIRECT
-DOMAIN-SUFFIX,163yun.com,DIRECT
-DOMAIN-SUFFIX,music.163.com,DIRECT
+# ========== 腾讯音乐 - 全民K歌 ==========
+DOMAIN-SUFFIX,kg.qq.com
 
-# ==================================================
-# 腾讯音乐 - QQ音乐
-# 公司：腾讯音乐娱乐集团
-# ==================================================
-DOMAIN,y.qq.com,DIRECT
-DOMAIN,music.qq.com,DIRECT
-DOMAIN,qqmusic.qq.com,DIRECT
-DOMAIN-SUFFIX,tencentmusic.com,DIRECT
+# ========== 腾讯音乐 - 酷狗 ==========
+DOMAIN-SUFFIX,kgimg.com
+DOMAIN-SUFFIX,kglink.cn
+DOMAIN-SUFFIX,kugoo.com
+DOMAIN-SUFFIX,kugou.com
+DOMAIN-SUFFIX,kugou.net
 
-# ==================================================
-# 腾讯音乐 - 全民K歌
-# 公司：腾讯音乐娱乐集团
-# ==================================================
-DOMAIN,kg.qq.com,DIRECT
+# ========== 腾讯音乐 - 酷我 ==========
+DOMAIN-SUFFIX,koowo.cn
+DOMAIN-SUFFIX,koowo.com
+DOMAIN-SUFFIX,kuwo.cn
 
-# ==================================================
-# 腾讯音乐 - 酷狗
-# 公司：腾讯音乐娱乐集团
-# ==================================================
-DOMAIN-SUFFIX,kugou.com,DIRECT
-DOMAIN-SUFFIX,kugou.net,DIRECT
-DOMAIN-SUFFIX,kugoo.com,DIRECT
-DOMAIN-SUFFIX,kgimg.com,DIRECT
-DOMAIN-SUFFIX,kglink.cn,DIRECT
+# ========== 斗鱼直播 ==========
+DOMAIN-SUFFIX,douyu.com
+DOMAIN-SUFFIX,douyu.tv
+DOMAIN-SUFFIX,douyuba.cn
+DOMAIN-SUFFIX,douyucdn.cn
+DOMAIN-SUFFIX,douyucdn2.cn
+DOMAIN-SUFFIX,douyupcdn.cn
+DOMAIN-SUFFIX,douyuscdn.com
+DOMAIN-SUFFIX,douyutv.com
+DOMAIN-SUFFIX,doyonoc.com
+DOMAIN-SUFFIX,guguyuyin.com
+DOMAIN-SUFFIX,oywtv.com
 
-# ==================================================
-# 腾讯音乐 - 酷我
-# 公司：腾讯音乐娱乐集团
-# ==================================================
-DOMAIN-SUFFIX,kuwo.cn,DIRECT
-DOMAIN-SUFFIX,koowo.cn,DIRECT
-DOMAIN-SUFFIX,koowo.com,DIRECT
+# ========== 虎牙直播 ==========
+DOMAIN-SUFFIX,huya.com
 
-# ==================================================
-# 斗鱼直播
-# 公司：斗鱼
-# ==================================================
-DOMAIN-SUFFIX,douyu.com,DIRECT
-DOMAIN-SUFFIX,douyu.tv,DIRECT
-DOMAIN-SUFFIX,douyucdn.cn,DIRECT
-DOMAIN-SUFFIX,douyucdn2.cn,DIRECT
-DOMAIN-SUFFIX,douyupcdn.cn,DIRECT
-DOMAIN-SUFFIX,douyuscdn.com,DIRECT
-DOMAIN-SUFFIX,douyutv.com,DIRECT
+# ========== 喜马拉雅 ==========
+DOMAIN-SUFFIX,xima.tv
+DOMAIN-SUFFIX,ximalaya.com
+DOMAIN-SUFFIX,ximalaya.fm
+DOMAIN-SUFFIX,ximalaya.tv
+DOMAIN-SUFFIX,xmcdn.com
 
-# ==================================================
-# 虎牙直播
-# 公司：虎牙
-# ==================================================
-DOMAIN-SUFFIX,huya.com,DIRECT
+# ========== CCTV / 央视网 ==========
+DOMAIN-SUFFIX,cctv.cn
+DOMAIN-SUFFIX,cctv.com
+DOMAIN-SUFFIX,cctvlib.cn
+DOMAIN-SUFFIX,cctvlib.com.cn
+DOMAIN-SUFFIX,cctvlibrary.cn
+DOMAIN-SUFFIX,cctvlibrary.com.cn
+DOMAIN-SUFFIX,cctvpic.com
+DOMAIN-SUFFIX,cctvpro.cn
+DOMAIN-SUFFIX,cctvpro.com.cn
+DOMAIN-SUFFIX,chinaepg.cn
+DOMAIN-SUFFIX,chinalive.com
+DOMAIN-SUFFIX,citv.net.cn
+DOMAIN-SUFFIX,cnms.net.cn
+DOMAIN-SUFFIX,cntv.cn
+DOMAIN-SUFFIX,cntv.com.cn
+DOMAIN-SUFFIX,cntvwb.cn
+DOMAIN-SUFFIX,gjgbdszt.cn
+DOMAIN-SUFFIX,gjgbdszt.com.cn
+DOMAIN-SUFFIX,gjgbdszt.net.cn
+DOMAIN-SUFFIX,ipanda.cn
+DOMAIN-SUFFIX,ipanda.com
+DOMAIN-SUFFIX,ipanda.com.cn
+DOMAIN-SUFFIX,livechina.cn
+DOMAIN-SUFFIX,livechina.com
+DOMAIN-SUFFIX,olympicchannelchina.cn
+DOMAIN-SUFFIX,tvcc.cn
+DOMAIN-SUFFIX,tvcc.com.cn
+DOMAIN-SUFFIX,zggbdszt.cn
+DOMAIN-SUFFIX,zggbdszt.com.cn
+DOMAIN-SUFFIX,zggbdszt.net.cn
+DOMAIN-SUFFIX,zygbdszt.net.cn
 
-# ==================================================
-# 喜马拉雅
-# 公司：喜马拉雅
-# ==================================================
-DOMAIN-SUFFIX,ximalaya.com,DIRECT
-DOMAIN-SUFFIX,ximalaya.fm,DIRECT
-DOMAIN-SUFFIX,ximalaya.tv,DIRECT
-DOMAIN-SUFFIX,xmcdn.com,DIRECT
-DOMAIN-SUFFIX,xima.tv,DIRECT
+# ========== 央广网 / 云听 ==========
+DOMAIN-SUFFIX,cnr.cn
+DOMAIN-SUFFIX,yunting.fm
 
-# ==================================================
-# CCTV / 央视网
-# 公司：中央广播电视总台
-# ==================================================
-DOMAIN-SUFFIX,cctv.com,DIRECT
-DOMAIN-SUFFIX,cctv.cn,DIRECT
-DOMAIN-SUFFIX,cntv.cn,DIRECT
-DOMAIN-SUFFIX,cntv.com.cn,DIRECT
-DOMAIN-SUFFIX,cctvpic.com,DIRECT
-DOMAIN-SUFFIX,cctvlib.cn,DIRECT
-DOMAIN-SUFFIX,ipanda.cn,DIRECT
-DOMAIN-SUFFIX,ipanda.com,DIRECT
-DOMAIN-SUFFIX,livechina.cn,DIRECT
-DOMAIN-SUFFIX,tvcc.cn,DIRECT
+# ========== 芒果TV ==========
+DOMAIN-SUFFIX,hunantv.com
+DOMAIN-SUFFIX,imgo.tv
+DOMAIN-SUFFIX,mgtv.com
 
-# ==================================================
-# 央广网 / 云听
-# 公司：中央广播电视总台相关业务
-# ==================================================
-DOMAIN-SUFFIX,cnr.cn,DIRECT
-DOMAIN-SUFFIX,yunting.fm,DIRECT
+# ========== 乐视视频 ==========
+DOMAIN-SUFFIX,le.com
+DOMAIN-SUFFIX,lecloud.com
+DOMAIN-SUFFIX,letv.com
+DOMAIN-SUFFIX,letvcdn.com
+DOMAIN-SUFFIX,letvcloud.com
 
-# ==================================================
-# 芒果TV
-# 公司：芒果超媒
-# ==================================================
-DOMAIN-SUFFIX,mgtv.com,DIRECT
-DOMAIN-SUFFIX,hunantv.com,DIRECT
-DOMAIN-SUFFIX,imgo.tv,DIRECT
+# ========== PPTV / PP视频 ==========
+DOMAIN-SUFFIX,pplive.cn
+DOMAIN-SUFFIX,pplive.com
+DOMAIN-SUFFIX,pptv.com
 
-# ==================================================
-# 乐视视频
-# 公司：乐视
-# ==================================================
-DOMAIN-SUFFIX,le.com,DIRECT
-DOMAIN-SUFFIX,letv.com,DIRECT
-DOMAIN-SUFFIX,letvcloud.com,DIRECT
-DOMAIN-SUFFIX,lecloud.com,DIRECT
-DOMAIN-SUFFIX,letvcdn.com,DIRECT
+# ========== 咪咕视频 / 咪咕音乐 ==========
+DOMAIN-SUFFIX,cmvideo.cn
+DOMAIN-SUFFIX,migu.cn
+DOMAIN-SUFFIX,miguvideo.com
 
-# ==================================================
-# PPTV / PP视频
-# 公司：PPTV相关业务
-# ==================================================
-DOMAIN-SUFFIX,pptv.com,DIRECT
-DOMAIN-SUFFIX,pplive.com,DIRECT
-DOMAIN-SUFFIX,pplive.cn,DIRECT
+# ========== 凤凰视频 ==========
+DOMAIN-SUFFIX,ifeng.com
+DOMAIN-SUFFIX,ifengimg.com
 
-# ==================================================
-# 咪咕视频 / 咪咕音乐
-# 公司：中国移动 / 咪咕
-# ==================================================
-DOMAIN-SUFFIX,miguvideo.com,DIRECT
-DOMAIN-SUFFIX,migu.cn,DIRECT
-DOMAIN-SUFFIX,cmvideo.cn,DIRECT
-DOMAIN,music.migu.cn,DIRECT
+# ========== 1905电影网 ==========
+DOMAIN-SUFFIX,1905.com
+DOMAIN-SUFFIX,m1905.com
 
-# ==================================================
-# 凤凰视频
-# 公司：凤凰新媒体
-# ==================================================
-DOMAIN,v.ifeng.com,DIRECT
-DOMAIN-SUFFIX,ifeng.com,DIRECT
-DOMAIN-SUFFIX,ifengimg.com,DIRECT
+# ========== 华数传媒 ==========
+DOMAIN-SUFFIX,wasu.cn
+DOMAIN-SUFFIX,wasu.tv
 
-# ==================================================
-# 1905电影网
-# 公司：中国电影频道相关业务
-# ==================================================
-DOMAIN-SUFFIX,1905.com,DIRECT
-DOMAIN-SUFFIX,m1905.com,DIRECT
+# ========== 百视通 ==========
+DOMAIN-SUFFIX,bestv.com.cn
+DOMAIN-SUFFIX,bestv.tv
 
-# ==================================================
-# 华数传媒
-# 公司：华数传媒
-# ==================================================
-DOMAIN-SUFFIX,wasu.cn,DIRECT
-DOMAIN-SUFFIX,wasu.tv,DIRECT
+# ========== CIBN ==========
+DOMAIN-SUFFIX,cibn.com
+DOMAIN-SUFFIX,icntv.cn
 
-# ==================================================
-# 百视通
-# 公司：百视通
-# ==================================================
-DOMAIN-SUFFIX,bestv.com.cn,DIRECT
-DOMAIN-SUFFIX,bestv.tv,DIRECT
+# ========== 蜻蜓FM ==========
+DOMAIN-SUFFIX,qingting.fm
 
-# ==================================================
-# CIBN
-# 公司：国广东方
-# ==================================================
-DOMAIN-SUFFIX,cibn.com,DIRECT
-DOMAIN-SUFFIX,icntv.cn,DIRECT
+# ========== 荔枝 ==========
+DOMAIN-SUFFIX,lizhi.fm
+DOMAIN-SUFFIX,lizhi.io
 
-# ==================================================
-# 蜻蜓FM
-# 公司：蜻蜓FM
-# ==================================================
-DOMAIN-SUFFIX,qingting.fm,DIRECT
+# ========== 小宇宙 ==========
+DOMAIN-SUFFIX,xiaoyuzhoufm.com
 
-# ==================================================
-# 荔枝
-# 公司：荔枝
-# ==================================================
-DOMAIN-SUFFIX,lizhi.fm,DIRECT
-DOMAIN-SUFFIX,lizhi.io,DIRECT
+# ========== 猫耳FM ==========
+DOMAIN-SUFFIX,missevan.com
 
-# ==================================================
-# 小宇宙
-# 公司：小宇宙
-# ==================================================
-DOMAIN-SUFFIX,xiaoyuzhoufm.com,DIRECT
+# ========== 懒人听书 ==========
+DOMAIN-SUFFIX,lrts.me
 
-# ==================================================
-# 猫耳FM
-# 公司：猫耳FM
-# ==================================================
-DOMAIN-SUFFIX,missevan.com,DIRECT
+# ========== YY直播 ==========
+DOMAIN-SUFFIX,duowan.com
+DOMAIN-SUFFIX,dwstatic.com
+DOMAIN-SUFFIX,hiido.cn
+DOMAIN-SUFFIX,hiido.com
+DOMAIN-SUFFIX,yy.com
 
-# ==================================================
-# 懒人听书
-# 公司：懒人听书 / 腾讯音乐相关业务
-# ==================================================
-DOMAIN-SUFFIX,lrts.me,DIRECT
+# ========== 搜狐视频 / 搜狐媒体 ==========
+DOMAIN-SUFFIX,sohu.com
+DOMAIN-SUFFIX,sohu.com.cn
 
-# ==================================================
-# YY直播
-# 公司：欢聚集团
-# ==================================================
-DOMAIN-SUFFIX,yy.com,DIRECT
-DOMAIN-SUFFIX,duowan.com,DIRECT
-DOMAIN-SUFFIX,dwstatic.com,DIRECT
-DOMAIN-SUFFIX,hiido.com,DIRECT
-DOMAIN-SUFFIX,hiido.cn,DIRECT
+# ========== 56视频 ==========
+DOMAIN-SUFFIX,56.com
+DOMAIN-SUFFIX,v-56.com
+
+# ========== 风行视频 ==========
+DOMAIN-SUFFIX,funshion.com
+
+# ========== 酷6视频 ==========
+DOMAIN-SUFFIX,ku6.com
+
+# ========== 战旗直播 ==========
+DOMAIN-SUFFIX,zhanqi.tv
+
+# ========== 央视频 / 总台视听 ==========
+DOMAIN-SUFFIX,yangshipin.cn
+DOMAIN-SUFFIX,yangshipin.com
+
+# ========== 腾讯共享基础设施（可能覆盖其他腾讯业务） ==========
+DOMAIN-SUFFIX,gtimg.com
+DOMAIN-SUFFIX,pgdt.gtimg.cn
+DOMAIN-SUFFIX,smtcdns.com
+DOMAIN-SUFFIX,smtcdns.net
+
+# ========== 核查说明 ==========
+# 公开规则库用于交叉比对平台覆盖范围；域名归属、是否仍在使用、
+# 是否为专属播放/音乐域名，仍需结合客户端实际请求日志进一步确认。
+# 不建议把整个通用CDN或云厂商根域名加入单个平台规则，以免误分流。
