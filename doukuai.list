@@ -1,0 +1,134 @@
+# ========== 字节跳动 ==========
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,bytedance.net
+DOMAIN-SUFFIX,byted-static.com
+DOMAIN-SUFFIX,bytedns.net
+DOMAIN-SUFFIX,bytednsdoc.com
+DOMAIN-SUFFIX,bytegoofy.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,bytescm.com
+DOMAIN-SUFFIX,bytetos.com
+DOMAIN-SUFFIX,bytexservice.com
+DOMAIN-SUFFIX,ibytedapm.com
+DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,zijieimg.com
+DOMAIN-SUFFIX,zjbyte.com
+DOMAIN-SUFFIX,zjcdn.com
+
+# ========== 抖音 ==========
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,iesdouyin.com
+
+# ========== 西瓜视频 ==========
+DOMAIN-SUFFIX,bdxiguaimg.com
+DOMAIN-SUFFIX,bdxiguastatic.com
+DOMAIN-SUFFIX,ixigua.com
+
+# ========== 今日头条 ==========
+DOMAIN-SUFFIX,toutiao.com
+DOMAIN-SUFFIX,toutiao13.com
+DOMAIN-SUFFIX,toutiaoapi.com
+DOMAIN-SUFFIX,toutiaocdn.com
+DOMAIN-SUFFIX,toutiaocdn.net
+DOMAIN-SUFFIX,toutiaocloud.com
+DOMAIN-SUFFIX,toutiaohao.com
+DOMAIN-SUFFIX,toutiaohao.net
+DOMAIN-SUFFIX,toutiaoimg.com
+DOMAIN-SUFFIX,toutiaopage.com
+
+# ========== 火山 ==========
+DOMAIN-SUFFIX,huoshan.com
+DOMAIN-SUFFIX,huoshanzhibo.com
+
+# ========== 飞聊 ==========
+DOMAIN-SUFFIX,feiliao.com
+
+# ========== 悟空问答 ==========
+DOMAIN-SUFFIX,wukong.com
+
+# ========== 快手相关旧规则收录项 ==========
+DOMAIN-SUFFIX,gifshow.com
+DOMAIN-SUFFIX,kspkg.com
+
+# ========== 字节生态其他业务 ==========
+DOMAIN-SUFFIX,feelgood.cn
+  # ========== 快手基础服务 ==========
+DOMAIN-SUFFIX,kuaishou.com
+DOMAIN-SUFFIX,kuaishou.cn
+DOMAIN-SUFFIX,gifshow.com
+DOMAIN-SUFFIX,ksapisrv.com
+DOMAIN-SUFFIX,kspkg.com
+DOMAIN-SUFFIX,kwimgs.com
+DOMAIN-SUFFIX,yximgs.com
+DOMAIN-SUFFIX,kwaicdn.com
+DOMAIN-SUFFIX,kwaicdnx.com
+
+# ========== 快手客户端及账号 ==========
+DOMAIN-SUFFIX,kuaishouapp.cn
+DOMAIN-SUFFIX,kuaishouapp.com
+DOMAIN-SUFFIX,kuaishouapp.net
+DOMAIN-SUFFIX,kuaishouapps.com
+DOMAIN-SUFFIX,kuaishougroup.com
+DOMAIN-SUFFIX,inkuai.com
+DOMAIN-SUFFIX,inkwai.com
+
+# ========== 快手支付及电商 ==========
+DOMAIN-SUFFIX,kuaishoupay.com
+DOMAIN-SUFFIX,kuaishouzt.cn
+DOMAIN-SUFFIX,kuaishouzt.com
+DOMAIN-SUFFIX,kwaizt.cn
+DOMAIN-SUFFIX,kwaizt.com
+DOMAIN-SUFFIX,kwaibusiness.cn
+DOMAIN-SUFFIX,kwaibusiness.com
+
+# ========== 快手广告及商业服务 ==========
+DOMAIN-SUFFIX,kuaiads.cn
+DOMAIN-SUFFIX,kuaiads.com
+DOMAIN-SUFFIX,adkwai.com
+DOMAIN-SUFFIX,adukwai.com
+DOMAIN-SUFFIX,kwaiad.cn
+DOMAIN-SUFFIX,kwaiadapp.cn
+DOMAIN-SUFFIX,kwaiadapp.com
+DOMAIN-SUFFIX,kwaiads.cn
+DOMAIN-SUFFIX,kwaiads.com
+
+# ========== 快影 ==========
+DOMAIN-SUFFIX,kuai-ying.cn
+DOMAIN-SUFFIX,kuai-ying.com
+DOMAIN-SUFFIX,ikuaiying.cn
+DOMAIN-SUFFIX,kwaiying.cn
+DOMAIN-SUFFIX,kwaiying.com
+
+# ========== 快手直播 ==========
+DOMAIN-SUFFIX,kwaitalk.cn
+DOMAIN-SUFFIX,kwaitalk.com
+DOMAIN-SUFFIX,kwaitv.cn
+DOMAIN-SUFFIX,kwaitv.com
+DOMAIN-SUFFIX,live-voip.com
+
+# ========== AcFun ==========
+DOMAIN-SUFFIX,acfun.cn
+DOMAIN-SUFFIX,acfun.com
+DOMAIN-SUFFIX,acfun.tv
+DOMAIN-SUFFIX,acfunchina.cn
+DOMAIN-SUFFIX,acfunchina.com
+DOMAIN-SUFFIX,acfunchina.net
+DOMAIN-SUFFIX,aixifan.com
+
+# ========== 快手其他业务 ==========
+DOMAIN-SUFFIX,etoote.cn
+DOMAIN-SUFFIX,etoote.com
+DOMAIN-SUFFIX,etoote.com.cn
+DOMAIN-SUFFIX,etoote.net
+DOMAIN-SUFFIX,52yitian.com
+DOMAIN-SUFFIX,dianmiao.cn
+DOMAIN-SUFFIX,diyiyt.com
+DOMAIN-SUFFIX,doutianshequ.com
+DOMAIN-SUFFIX,btzgamepkg.com
